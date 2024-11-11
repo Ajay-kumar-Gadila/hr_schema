@@ -1,0 +1,9 @@
+Employee_ID,First_Name,Last_Name,Email,Phone_Number,Hire_Date,Job_ID,Salary,Commission_Pct,Manager_ID,Department_ID
+1,John,Doe,john.doe@example.com,555-1234,2020-01-15,1,90000,5,101,1
+2,Jane,Smith,jane.smith@example.com,555-5678,2019-03-20,2,95000,0,102,2
+3,Emily,Jones,emily.jones@example.com,555-8765,2018-11-30,3,75000,10,103,3
+4,Michael,Brown,michael.brown@example.com,555-4321,2017-07-10,4,85000,0,104,4
+5,Chris,Johnson,chris.johnson@example.com,555-6789,2021-02-22,5,65000,5,105,5
+6,Olivia,Lee,olivia.lee@example.com,555-3456,2020-09-12,6,70000,10,106,6
+7,David,White,david.white@example.com,555-2345,2018-06-01,7,60000,0,107,7
+8,Sarah,Green,sarah.green@example.com,555-7890,2019-04-18,8,80000,7,108,8

@@ -1,0 +1,9 @@
+Department_ID,Department_Name,Manager_ID,Location_ID
+1,HR,101,1
+2,Finance,102,2
+3,IT,103,3
+4,Sales,104,4
+5,Marketing,105,5
+6,Operations,106,6
+7,Research,107,7
+8,Development,108,8
